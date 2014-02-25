@@ -1,4 +1,4 @@
-node-poker-ranking
+php-poker-ranking
 ==================
 
 This repository contains base files to perform the expanded "Poker hand ranking"
